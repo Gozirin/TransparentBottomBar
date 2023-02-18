@@ -334,7 +334,7 @@ We now have something like this:
 ## Customization
 
 ```xml
-<me.ibrahimsn.lib.SmoothBottomBar
+<me.gozirin.TransparentBottomBar
         android:id="@+id/bottomBar"
         android:layout_width="match_parent"
         android:layout_height="70dp"
