@@ -11,9 +11,6 @@ A lightweight Android material bottom navigation bar library
 
 <img src="https://cdn.dribbble.com/users/1015191/screenshots/6251784/snapp---animation.gif"/>
 
-## Design Credits
-
-All design and inspiration credits belong to [Alejandro Ausejo](https://dribbble.com/shots/6251784-Navigation-Menu-Animation).
 
 ## Usage
 
